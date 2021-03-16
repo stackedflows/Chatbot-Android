@@ -1,6 +1,6 @@
 # SST-RASA-TTS
 
-(Speech to text/Text to speech)
+(Speech to text -> ChatBot Neural Network -> Text to speech)
 
  Android Build
 
